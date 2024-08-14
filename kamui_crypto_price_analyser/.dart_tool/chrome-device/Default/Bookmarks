@@ -1,0 +1,430 @@
+{
+   "checksum": "74b9383df98065afe4bd99d4cf15377f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13161210156576739",
+            "date_last_used": "0",
+            "guid": "ba7cd2b2-594e-4c74-b33b-4c71227d70b8",
+            "id": "34",
+            "name": "Settings",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "chrome://settings/"
+         }, {
+            "date_added": "13324748516631133",
+            "date_last_used": "0",
+            "guid": "01cefe9f-7677-45a4-9b2b-2f2a6a7e4be9",
+            "id": "35",
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.bing.com/ck/a?!&&p=866ba0e2c4651caaJmltdHM9MTY4MDIyMDgwMCZpZ3VpZD0zZTY1MTE2Ny05NTZjLTY0ZTItMTk5Zi0wMzgyOTRmNzY1ZjUmaW5zaWQ9NTA1MA&ptn=3&hsh=3&fclid=3e651167-956c-64e2-199f-038294f765f5&u=a1Lz9GT1JNPVo5RkQx&ntb=1"
+         }, {
+            "date_added": "13291698714483518",
+            "date_last_used": "0",
+            "guid": "d04eab4e-4957-48b9-b5c8-1c0cf98b5a4b",
+            "id": "36",
+            "name": "Translate",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         }, {
+            "date_added": "13300650263383938",
+            "date_last_used": "0",
+            "guid": "4ca2b33b-a34b-4083-af4a-5db0ab91a343",
+            "id": "37",
+            "name": "kandi: find software libraries",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://kandi.openweaver.com/home?landingpage=python&landingpage=python&utm_campaign=paid_search_productcapability_search&utm_medium=cpc&utm_source=google&utm_term=python_all_project&utm_content=code&gclid=CjwKCAjw5NqVBhAjEiwAeCa97b_pbAwxL2NNB4H8VgjQ7W6GxzEAUs49mHUMqvyDCNo88jPsH4FbcRoCtr8QAvD_BwE"
+         }, {
+            "date_added": "13300776036692818",
+            "date_last_used": "0",
+            "guid": "b3efbf1f-f59a-46ac-af3a-42beb00152d3",
+            "id": "38",
+            "name": "MICRO PROJECT Software Engineering (22413) i scheme MSBTE - MSBTE MICRO PROJECTS - I SCHEME",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.msbtemicroproject.tech/2022/02/MICRO%20PROJECT%20Software%20Engineering%2022413%20i%20scheme%20MSBTE.html"
+         }, {
+            "date_added": "13303073077162395",
+            "date_last_used": "0",
+            "guid": "f46726e4-acd2-4180-a49f-4ea6cf0cbca1",
+            "id": "39",
+            "name": "Adobe Master Collection 2022 Free Download",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://getintopc.com/softwares/graphic-design/adobe-master-collection-2022-free-download-1591116/"
+         }, {
+            "date_added": "13303073436590966",
+            "date_last_used": "0",
+            "guid": "ac4ba9cb-0300-4a8d-8cfa-10a83645ef5c",
+            "id": "40",
+            "name": "Microsoft Visual Studio 2022 All in One Free Download",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://getintopc.com/softwares/development/microsoft-visual-studio-2022-all-in-one-free-download-1392520/"
+         }, {
+            "date_added": "13303073633114012",
+            "date_last_used": "0",
+            "guid": "12a3aaa6-3baa-49ce-afac-d2f002122813",
+            "id": "41",
+            "name": "JetBrains IntelliJ IDEA Ultimate 2022 Free Download",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://getintopc.com/softwares/development/jetbrains-intellij-idea-ultimate-2022-free-download-3344248/"
+         }, {
+            "date_added": "13304536715692594",
+            "date_last_used": "0",
+            "guid": "0fb4954e-75e0-44ad-9736-ecf7a4794658",
+            "id": "42",
+            "name": "anti_ragging_affidavit.pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.aicte-india.org/downloads/anti_ragging_affidavit.pdf"
+         }, {
+            "date_added": "13304536723239221",
+            "date_last_used": "0",
+            "guid": "5a0fe012-b6dd-4674-a65b-b7f2607f0418",
+            "id": "43",
+            "name": "Anti Ragging | Ragging in college | Anti Ragging Affidavit",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://antiragging.in/affidavit_standalone_form_process.php"
+         }, {
+            "date_added": "13366138244634966",
+            "date_last_used": "0",
+            "guid": "b8ae67d1-8645-4d64-b241-c822a9763866",
+            "id": "44",
+            "name": "Million Free Games",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://millionfreegames.com/"
+         }, {
+            "date_added": "13366138244635693",
+            "date_last_used": "0",
+            "guid": "3d9aa405-53b8-4718-ad87-0133af588b7d",
+            "id": "45",
+            "name": "New Tab Theme Builder",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://newtabthemebuilder.com/"
+         } ],
+         "date_added": "13367491488030459",
+         "date_last_used": "0",
+         "date_modified": "13366138244635693",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13367491488030469",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13230915900276342",
+            "date_last_used": "0",
+            "guid": "f6013e2a-a337-4b16-b37e-45d5bd8458b1",
+            "id": "7",
+            "name": "Golden Ratio Face App Beauty Phi Calculator For Android and iOS - Ava's",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://play.google.com/store/apps/details?id=com.golden.ratio.face&hl=en"
+         }, {
+            "date_added": "13230915543942401",
+            "date_last_used": "0",
+            "guid": "45cd2b94-91be-4e75-b24c-5bc9d9ab81b3",
+            "id": "8",
+            "name": "download phi golden ratio app apkpure - Google Search",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.google.co.in/search?sxsrf=ALeKk0178TaTnijFR7Fg5nlV92EBBheqGw%3A1586441579420&q=download+phi+golden+ratio+app+apkpure&oq=download+phi+golden+ratio+app+apkpure&aqs=heirloom-srp.."
+         }, {
+            "date_added": "13233867044944096",
+            "date_last_used": "0",
+            "guid": "832358fc-ff2f-4cd4-9563-7eb31130be7f",
+            "id": "9",
+            "name": "Honey Bunny Ringtone Download",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.prokerala.com/downloads/ringtones/download.php?id=966"
+         }, {
+            "date_added": "13233343574506061",
+            "date_last_used": "0",
+            "guid": "dbc93b83-3fec-4a9d-8199-b8c0d8f5ede8",
+            "id": "10",
+            "name": "Google",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.google.co.in/?gws_rd=ssl"
+         }, {
+            "date_added": "13245828029565854",
+            "date_last_used": "0",
+            "guid": "e42db54f-3404-48b7-9a45-14ca0a0ef5f4",
+            "id": "11",
+            "name": "Spider-Man 2002 Bluray Full Movie Free Download Dual Audio – SD Movies Point",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://1sdmoviespoint.live/spider-man-2002-bluray-full-movie-free-download-dual-audio-sd5/#more-8115"
+         }, {
+            "date_added": "13245828069666855",
+            "date_last_used": "0",
+            "guid": "c206c684-220a-4709-8a5e-6cc23ebbd522",
+            "id": "12",
+            "name": "Green Lantern 2011 Bluray Full Movie Download HD Dual Audio – SD Movies Point",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://1sdmoviespoint.live/green-lantern-2011-bluray-full-movie-download-hd-dual-audio-sd1/#more-12519"
+         }, {
+            "date_added": "13245828201945664",
+            "date_last_used": "0",
+            "guid": "454192fa-a06f-47e0-9ef9-729399df9556",
+            "id": "13",
+            "name": "Gravity 2013 Full Movie Free Download Bluray – SD Movies Point",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://1sdmoviespoint.live/gravity-2013-full-movie-free-download-bluray/#more-6169"
+         }, {
+            "date_added": "13245828261683939",
+            "date_last_used": "0",
+            "guid": "cb0a5410-90fb-4e24-945e-6bf2b2f3d428",
+            "id": "14",
+            "name": "Smurfs The Lost Village 2017 Dvdrip Full HD Movie Download Dual Audio – SD Movies Point",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://1sdmoviespoint.live/smurfs-the-lost-village-2017-dvdrip-full-hd-movie-download-sd11/#more-13370"
+         }, {
+            "date_added": "13245828314009971",
+            "date_last_used": "0",
+            "guid": "b9d06afa-ae3c-46b9-86bb-9ef54f006e2d",
+            "id": "15",
+            "name": "Transformers 5 The Last Knight 2017 Dual Audio Full Movie Free Download – SD Movies Point",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://1sdmoviespoint.live/transformers-5-the-last-knight-2017-dual-audio-full-movie-free-download-1-sd5/#more-13839"
+         }, {
+            "date_added": "13245828432028094",
+            "date_last_used": "0",
+            "guid": "fdb00cfd-53fa-442a-916d-dc092989000a",
+            "id": "16",
+            "name": "X Men 2000 Dual Audio Movie Free Download HD Bluray Hindi – SD Movies Point",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://1sdmoviespoint.live/x-men-2000-dual-audio-movie-free-download-hd-bluray-hindi/#more-14187"
+         }, {
+            "date_added": "13245828472801555",
+            "date_last_used": "0",
+            "guid": "63375a72-e7e2-4e5f-9dcc-a0979d55ec49",
+            "id": "17",
+            "name": "Pokémon Detective Pikachu 2019 Full Movie Download Free HDRip Dual Audio – SD Movies Point",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://1sdmoviespoint.live/pokemon-detective-pikachu-2019-full-movie-download-free-camrip-dual-audio-sd/#more-23687"
+         }, {
+            "date_added": "13245828533373907",
+            "date_last_used": "0",
+            "guid": "599511de-0226-4e67-acc2-88869e4716df",
+            "id": "18",
+            "name": "Pacific Rim 2 2018 Movie Free Download Full HD Bluray Dual Audio – SD Movies Point",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://1sdmoviespoint.live/pacific-rim-2-2018-movie-free-download-full-camrip-dual-audio-sd/#more-17695"
+         }, {
+            "date_added": "13245828592941034",
+            "date_last_used": "0",
+            "guid": "540832b9-a00b-459a-abf8-f8dc9bed205d",
+            "id": "19",
+            "name": "Men in Black International 2019 Full Movie Free Download HDRip Dual Audio – SD Movies Point",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://1sdmoviespoint.live/men-in-black-international-2019-full-movie-free-download-hdrip-dual-audio-3/#more-28415"
+         }, {
+            "date_added": "13245828642944977",
+            "date_last_used": "0",
+            "guid": "ab363bca-e94b-428a-a688-ccfe8b5b3fd8",
+            "id": "20",
+            "name": "The Lion King 2019 Full Movie Download Free HD 720p Bluray – SD Movies Point",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://1sdmoviespoint.live/the-lion-king-2019-full-movie-download-free-camrip-sd6/#more-28153"
+         }, {
+            "date_added": "13252250719112111",
+            "date_last_used": "0",
+            "guid": "b8b95b3e-0d1f-4362-aabb-c3734d491c2a",
+            "id": "21",
+            "name": "d and f-Block Elements",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSc-B_J6JfnleFvnGcbH3KoncmejxiViHf4cuHnCC9lRmFOcRA/viewscore?viewscore=AE0zAgD7-z3JAMW3fJsOkje8g2_mPpzioIVqHghwDtsW"
+         }, {
+            "date_added": "13259940537485277",
+            "date_last_used": "0",
+            "guid": "2227eaa4-d878-4b72-90a4-b4c3f1f70823",
+            "id": "22",
+            "name": "Survey Related to Upcoming Board Exam of SSC & HSC 2021 in Maharashtra",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSed2LthpHgTpB7P83u7PQ_G_dZnTAZn8W2iSH5m0gAXzod-BA/closedform"
+         }, {
+            "date_added": "13260288812186676",
+            "date_last_used": "0",
+            "guid": "2ad775d5-f0d6-4dd1-b4b2-8628bb288722",
+            "id": "23",
+            "name": "State Council of Educational Research & Training(SCERT), Maharashtra.",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.maa.ac.in/index.php?tcf=prashnpedhi_12"
+         }, {
+            "date_added": "13267688314970866",
+            "date_last_used": "0",
+            "guid": "9bc8682e-2a78-4d31-8ca9-5ff56a7836f7",
+            "id": "24",
+            "name": "https://jeemain.nta.nic.in/webinfo2021/Page/Page?PageId=1&LangId=P",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://jeemain.nta.nic.in/webinfo2021/Page/Page?PageId=1&LangId=P"
+         }, {
+            "date_added": "13270880377920648",
+            "date_last_used": "0",
+            "guid": "70fef86a-7f0b-4131-868d-55db1ce6d224",
+            "id": "25",
+            "name": "SSC Result 2021",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://result.mh-ssc.ac.in/Search/Search_Student"
+         }, {
+            "date_added": "13273181612177812",
+            "date_last_used": "0",
+            "guid": "3a9a3059-d28d-4662-a46c-6ec3027413b2",
+            "id": "26",
+            "name": "HOLLYWOOD - HindMovie.cc",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://hindmovie.cc/movies/hollywood-movies/"
+         }, {
+            "date_added": "13279390361952883",
+            "date_last_used": "0",
+            "guid": "2b4c847d-36c3-4d76-8889-039057d2fa61",
+            "id": "27",
+            "name": "Google Scholar",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://scholar.google.com/"
+         }, {
+            "date_added": "13281002264066656",
+            "date_last_used": "0",
+            "guid": "1a1bde38-ead6-428c-91fe-5cb1b8816ad2",
+            "id": "28",
+            "name": "Extension: C/C++ - code-server",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://localhost:8080/"
+         }, {
+            "date_added": "13261681746213511",
+            "date_last_used": "0",
+            "guid": "efd02018-c6fb-43e0-84bc-a7b018d97052",
+            "id": "29",
+            "name": "Home - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://m.youtube.com/"
+         }, {
+            "date_added": "13269332513391927",
+            "date_last_used": "0",
+            "guid": "1874b73f-7373-462b-bfe5-5fc3ad77a761",
+            "id": "30",
+            "name": "https://m.youtube.com/watch?v=HPAgjcb9RF4&feature=youtu.be",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://m.youtube.com/watch?v=HPAgjcb9RF4&feature=youtu.be"
+         }, {
+            "date_added": "13282646765207964",
+            "date_last_used": "0",
+            "guid": "5ca01053-278b-416a-9c43-158aa9ad7a93",
+            "id": "31",
+            "name": "Banking System Program using Structure in C",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.cprogrammingnotes.com/question/banking-system.html"
+         }, {
+            "date_added": "13282646989953918",
+            "date_last_used": "0",
+            "guid": "9d154eec-f822-454a-884f-8c2b0cefc6ee",
+            "id": "32",
+            "name": "3.9. Infix, Prefix and Postfix Expressions — Problem Solving with Algorithms and Data Structures",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.openbookproject.net/books/pythonds/BasicDS/InfixPrefixandPostfixExpressions.html"
+         }, {
+            "date_added": "13282647307900247",
+            "date_last_used": "0",
+            "guid": "39dcf295-c3ef-4248-98b8-32685765ac50",
+            "id": "33",
+            "name": "Tree Traversal In Data Structure: Overview and Types | Simplilearn",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.simplilearn.com/tutorials/data-structure-tutorial/tree-traversal-in-data-structure"
+         } ],
+         "date_added": "13367491488030471",
+         "date_last_used": "0",
+         "date_modified": "13282647307900247",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCEwu2iuRAQAAKg4QABgBIAAoBTAAOABAABIAKhgxZVNibFNqbjhWamR4SU9TcUNGdGV3PT1IA6AGDBKoAQgtEqMBChxjalFIMktEaHB4TFlETyt6QVhmN3dicVc1WjQ9EiQzZDlhYTQwNS01M2I4LTQ3MTgtYWQ4Ny0wMTMzYWY1ODhiN2QYACAAKAAww+fW2Y0yOMbp1tmNMkDG6dbZjTJKHFlGaURnb1FMOUlsbHd2WTdjOUx0RUNzTFJVST1aHyId/1UvRC96T2xOazlXbFRUZjdLckFqTWJpYkdLVT1lUahfFxKoAQgqEqMBChxKODgxYjlaNXBVK2lQeUxxT01YcjZReDRSNnc9EiQwZmI0OTU0ZS03NWUwLTQ0YWQtOTczNi1lY2Y3YTQ3OTQ2NTgYACAAKAAw65qt7K0wOLebreytMEC3m63srTBKHDd6dm9GZDJBakZrK0g5a0h5RXNPYWZyWUpiOD1aHyId/TVrajdqcmw5U2htVG5PSFR2TGlzWXdobkcxcz1lAAAAABKoAQgnEqMBChxybXVnZ1g1SlJ5emxsc1RpYlVsT0dkZnJrdzg9EiRmNDY3MjZlNC1hY2QyLTQxODAtYTQ5Zi00ZWE2Y2YwY2JjYTEYACAAKAAw3pP82I0yOO2EreytMEDthK3srTBKHHdqcmtlVFNNQlRpTGpZZCtaalRVN1dmZUFrZz1aHyId73ZNeEI0ZUwrcU1nbHJ5RlFCLzM1Y05nR2hNWT1lvu83dBKoAQglEqMBChx3R2M1U3hSUk5KSHdIRzVrNXczYVo3S0thUUk9EiQ0Y2EyYjMzYi1hMzRiLTQwODMtYWY0YS01ZGIwYWI5MWEzNDMYACAAKAAw3ZP82I0yOJiGreytMECYhq3srTBKHGhrZk1KS1JVN1lFTGZpUFVjSGF4M1UrMm5RST1aHyIdvEEzVW0rSHBNU2Y3SEg4emlMQ2hScW9GcTJtMD1l4eWw7BKoAQgpEqMBChxiWDVXR1B1b3VaeTE0SmlZY0c2SVFGYmxlZkk9EiQxMmEzYWFhNi0zYmFhLTQ5Y2UtYWZhYy1kMmYwMDIxMjI4MTMYACAAKAAwmL/BwfMwOKuFreytMECrha3srTBKHGExYXRxcndIN0R3RElhczcybE9OeFZsQnRjYz1aHyId+y9HNnlSaDIxOENTbWczRVBPbXRyNmlaYnI5ND1lvu83dBKnAQgiEqIBChxzMGpIaTBUaU1NcUpSbWZ4OEVENHpaeG5QbnM9EiRiYTdjZDJiMi01OTRlLTRjNzQtYjMzYi00YzcxMjI3ZDcwYjgYACAAKAAw65qt7K0wONabreytMEDWm63srTBKHGVSRTRJdTRhdndlNDI3THk1L2NYSnRGb1l0Yz1aHiIcRG5Odnd1dFNDajZYMW9oVlQwK1I5eXBRU3d3PWUAAAAAEokBCAEShAEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJGM0YmY4M2ViLTM1ODctNTdlOC1iNjhjLTQwNTQ0MzYxNDgxORgAIAAoADD05azsrTA4hLe1q+wvQIS3tavsL0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASqgEIIRKlAQocUVZZQXkvUWdhZjdXRXF1UVc3VkhXN2tZNmJVPRIkMzlkY2YyOTUtYzNlZi00MjQ4LTk4YjgtMzI2ODU3NjVhYzUwGAAgACgAMPODreytMDi4hq3srTBAuIat7K0wShx0NTY5ejRiMXJXZXJLQnJ5eUNGQnkwK2xkQlE9WiEiH////nprVjVVSFhpZGE2dExEdUk2MER5R1pWbCs3OD1lAAAAABKqAQgdEqUBChxPNjd5cndudTdlVXpCamwzUTg0SEVTejIycU09EiRlZmQwMjAxOC1jNmZiLTQzZTAtODRiYy1hN2IwMThkOTcwNTIYACAAKAAw84Ot7K0wONqFreytMEDaha3srTBKHEIyOGZvNGo0d20zUU9reU5UTk0rZ2xtYjVqMD1aISIf///tU1BXUE4veitnSG9lSkFGeFk1cllQUVk2aGY4PWUAAAAAEqoBCBwSpQEKHHBsUmdhWkNVcGRXUHkrMm9OeTNVRWJjNG9DTT0SJDFhMWJkZTM4LWVhZDYtNDI4Yy05MWZlLTVjYjFiODgxNmFkMhgAIAAoADDzg63srTA4+YWt7K0wQPmFreytMEocM2NJV0Y2YmVIb0dKZHlSYUlCNVI5eFpFay9JPVohIh///9tWdHpsRjY0eUFMcGNxU0JMMW1ZeVRjTVZvRnc9ZQAAAAASqAEIKBKjAQocTkN6N3V3cGZkaU5xS3lISGpQRGlNRFFFWDk4PRIkYWM0YmE5Y2ItMDMwMC00YThkLThjZmEtMTBhODM2NDVlZjVjGAAgACgAMNyT/NiNMjjXhq3srTBA14at7K0wShxHZ1NvNE54UzRNS2p0cFFUNW5RZ1BLMUpkdHc9Wh8iHfcwbW9ielV2MEFTWXNvczlWV3FyQWtDNVdHbHM9Zb7vN3QSqQEIGRKkAQocWTQ5ZmMwRTBkWFRldE5iTGY5R0kzejFSbHFrPRIkNzBmZWY4NmEtN2YwYi00MTMxLTg2OGQtNTVkYjFjZTZkMjI0GAAgACgAMOuareytMDiFnK3srTBAhZyt7K0wShxOZVBRWVNrQm5rV2RPb3gwRGYzckl6R2g1aVU9WiAiHv//K2dBN3pEZFpDMVE4OEQzZjhGZG5pcWlvTGY4PWUAAAAAEqkBCBISpAEKHE9JbmJQRS9GMVozbENlSXEwOFBwT0R2VjUzTT0SJDU5OTUxMWRlLTAyMjYtNGU2Ny1hY2MyLTg4ODY5ZTQ3MTZkZhgAIAAoADDzg63srTA4hoet7K0wQIaHreytMEocdFo4NDR2OFBUYm5zbVdteVNLbjhyT0l1aHVvPVogIh7/ums1enQyUlJDUWhhQlhRcVFDeE43MkNKUmxhQT1lAAAAABKoAQgsEqMBChxWTHhmSUFPU2xIZmFCMGJrUTZFcE90S2dNRU09EiRiOGFlNjdkMS04NjQ1LTRkNjQtYjI0MS1jODIyYTk3NjM4NjYYACAAKAAwwufW2Y0yOKrp1tmNMkCq6dbZjTJKHC92SG44SDk0Q0VYUFhHcEF5Ym1pMkIrU2xuaz1aHyId/0ZKRmowdzQwbTZXa2MvemRZTnB3bmp4dU1RMD1lAAAAABKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQ4MWM4MDRiZi0wYTcwLTVlYjYtOTk4Yi1jMGNmMjExYjU1ODAYACAAKAAw9OWs7K0wOKC4tavsL0CguLWr7C9KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEqkBCBcSpAEKHGFTSjBVWjVZRjZOL1htZnZrTFZtdmRDbVRROD0SJDJhZDc3NWQ1LWYwZDYtNGRkMS1iNGIyLTg2MjhiYjI4ODcyMhgAIAAoADDzg63srTA47Ymt7K0wQO2JreytMEocS3BjSy9ISmVqdUJOSG1zVlNUcG5kV04vN0lzPVogIh7//TZBZ1VvTDVDdzZidDJEVU92ajJzQ29Lb25oYz1lAAAAABKnAQgIEqIBChx2WUYreWZFTURDeWtRSnR5SHlqaHZIK3l3U009EiQ0NWNkMmI5NC05MWJlLTRlNzUtYjI0Yy01YmM5ZDlhYjgxYjMYACAAKAAw84Ot7K0wOK+JreytMECvia3srTBKHDhlbXN2TG54b1BkcUhRK0Z5c2hleWJ3UXhJYz1aHiIcT3cvTGozZ0pCOG1udE9tSGpoZW03SDhCTmtNPWUAAAAAEqoBCBsSpQEKHEJJVVJJM1dZR3R5N3ZsTWFJVWpqbUY1bnZBST0SJDJiNGM4NDdkLTM2YzMtNGQ3Ni04ODg5LTAzOTA1N2QyZmE2MRgAIAAoADDrmq3srTA4jJ+t7K0wQIyfreytMEocVkFyUmZvWkVsWHNUdTFlMnRUWEc1QXVEck1JPVohIh///7dLdkJaR3N4MTBILzBrTGxnaThvNmRPanhDUDQ9ZQAAAAASqQEIGBKkAQocYnZSVUtidDNURXVtT3lFMDVoNU4yczljTnI4PRIkOWJjODY4MmUtMmE3OC00ZDMxLThjYTktNWZmNTZhNzgzNmY3GAAgACgAMOuareytMDiknK3srTBApJyt7K0wShxEZGF5cytZRFBacUxQWmpNdmZBMnN6SzRjODg9WiAiHv/+dlFkSC9vYVVXNlJzNUh2QXVwdEgzOTRyVkNRPWUAAAAAEqgBCBASowEKHG1aRXhKNlNpMVJZMkJBdkRHMFZpYVd5Kzc2Yz0SJGZkYjAwY2ZkLTUzZmEtNDQyYS05MTZkLWRjMDkyOTg5MDAwYRgAIAAoADDrmq3srTA48pyt7K0wQPKcreytMEocbDBOYXRjNjNlbTBRalpUSmlVbHVKTUVod1M0PVofIh3+R3NXOStsc0g5RGlpTVBwOWsvNFBRRVJKSDc0PWUAAAAAEqcBCCMSogEKHGhxZUdzbmlhYTVEcTRDdUlUY1FOV2ZFalJqQT0SJDAxY2VmZTlmLTc2NzctNDVhNC05YjJiLTJmMmE2YTdlNGJlORgAIAAoADD7+cLB8zA48/rCwfMwQPP6wsHzMEocamU1MFlkeWNuOWo3T3ZjdkpiekFCV0dDYkRNPVoeIhxiV0dyRUdYU0dDSFU4R3hZRk04bmhhUTgrUjg9ZQAAAAASqQEIFhKkAQoccERmZzBNUzA4ZUtLNHg5cjRwN3pWV290ZHhzPRIkMjIyN2VhYTQtZDg3OC00YjcyLTkwYTQtYjRjM2YxZjcwODIzGAAgACgAMPODreytMDiMha3srTBAjIWt7K0wShxyeFc0Ni9Ca3p1SzZJaGpqL0pqclcvRG9hWms9WiAiHv/7ZmdNSGdtM3Zmc3lHSUkvUVAwN2pwb0Qxa3lZPWUAAAAAEqoBCCASpQEKHElFWGlnL2NxNkhGZHVTS1ArcWdkZVVVS1Zabz0SJDlkMTU0ZWVjLWY4MjItNDU0YS04ODRmLThjMmIwY2VmYzZlZRgAIAAoADDzg63srTA4pYet7K0wQKWHreytMEocSjN3cHJNRmtFeWRKODdMaFJIb0trdTcxTlVzPVohIh////1udG5QVElyMVBYRTN4K0Y5WjJQWTZsbVk3QVE9ZQAAAAASqgEIHhKlAQocdktvSndFMUJNTUVjeG9vb1ZDQXhjNlhyVnNjPRIkMTg3NGI3M2YtNzM3My00NjJiLWJmZTUtNWZjM2FkNzdhNzYxGAAgACgAMPODreytMDiDiK3srTBAg4it7K0wShxscVRrRGt1M2c4a09nNlhmUHZDZ3NaT2c2blk9WiEiH///9nFXUkJyRUJ3bFM1MWdHc2dXWW5ycDFVQzdYOD1lAAAAABKoAQgPEqMBChxKVzZxMEcvc3Jjc1d4cWdITkorK3FmQzNVeXM9EiRiOWQwNmFmYS1hZTNjLTQ2YjktODZiYi05ZWY1NGYwMDZlMmQYACAAKAAw84Ot7K0wOMSHreytMEDEh63srTBKHDZFbmlGRDV1aVhrM0tIN0VHK053TElkTjd6MD1aHyId/VJwRmdCU1ZrUkl1dHhTL0QvR2lRV3lFU2ZoWT1lAAAAABKpAQgUEqQBChxpVERGUWZ0eU1TakV1dTk2SmhsUEZzTFQ5Uzg9EiRhYjM2M2JjYS1lOTRiLTQyOGEtYTY4OC1jY2ZlOGI1YjNmZDgYACAAKAAw84Ot7K0wOM2EreytMEDNhK3srTBKHElrd2U3ZFJOc2hUd1FkaHlYRU1NbGJZaWE1ST1aICIe/+5kbW9MQ3QwcUxxVzhBdVpZc1Rza3ZFTkdoTnM9ZQAAAAASqAEIJhKjAQocNDNIR2JKWWREcjE3M1NMVVZmL2NOV0lneUN3PRIkYjNlZmJmMWYtZjU5YS00NmFjLWFmM2EtNDJiZWIwMDE1MmQzGAAgACgAMNuT/NiNMjiiiK3srTBAooit7K0wShxUdlhoMmRiZVd5eDlGSWlWODBId3NWNW95bkE9Wh8iHd5TdVBUa1lDeVdRRkhiOVI5M0QybkM3ZHlxc1U9Za7u7egSqAEIDBKjAQocTW92VG10Tkpjc280QnhYNlNwMCtjcjRXQVFvPRIkYzIwNmM2ODQtMjIwYS00NzA5LThhNWUtNmNjMjNlYmJkNTIyGAAgACgAMOuareytMDjQna3srTBA0J2t7K0wShxNalY3VE41ekI0eFJhM3lNZ2FVV1ZSeHlKU289Wh8iHe5QNWRxTnVFZG12MW0xYmRCckZFNVkzaCtlS1k9ZQAAAAASqAEIDhKjAQocaXN2QVNONEllWmpGYUlNblVLZlNGajh3alhnPRIkY2IwYTU0MTAtOTBmYi00ZTI0LTk0NWUtNmJmMmIyZjNkNDI4GAAgACgAMPODreytMDjwiK3srTBA8Iit7K0wShxrOUhFSFJNdGQ2dERneEFsaFIxQ0Rhd0s5Sm89Wh8iHftmYUJUVlptSVh0TlZ4ZGNqMWVWRi9pZmFLUDg9ZQAAAAASiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkNGQ2ODQ5MTAtNWYxNC01YmIyLTkyOTctODVmYTIzNGIyY2FiGAAgACgAMPTlrOytMDizt7Wr7C9As7e1q+wvShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKoAQgNEqMBChxKNzFqMDc1YWQva0wwdXQ5Vyt4NmR5QnZVYnM9EiQ0NTQxOTJmYS1hMDZmLTQ3ZTAtOWVmOS03MjkzOTlkZjk1NTYYACAAKAAw84Ot7K0wOOOHreytMEDjh63srTBKHDIrVGVKbTMxVW85NmJKTWRKQTNLTml1dHVtTT1aHyId9zg2WWhHOHBlSGdaWEhrWmI2dGJEdkVJRkZNTT1lAAAAABKpAQgTEqQBChw2NmplRXFoQk8ra0V4MzNYdXgwSElDTkttcVU9EiQ1NDA4MzJiOS1hMDBiLTQ1OWEtYWJmOC1mOGRjOWJlZDIwNWQYACAAKAAw84Ot7K0wONGIreytMEDRiK3srTBKHGtnSUxhTmxQbmZIeEg2SDZDOEg3M3JrSlpJTT1aICIe/91hQWs1eWNneHo4VXFrZ0lvVWN5NHlLRm40ZDg9ZQAAAAASqAEICxKjAQocdVFkbDJQK1hCYnVBRjhrQUFlKy9FdjZtakdrPRIkZTQyZGI1NGYtMzQwNC00OGI3LTlhNDUtMTRjYTBhMGVmNWY0GAAgACgAMOuareytMDirn63srTBAq5+t7K0wShxtcVMwZGViQnIwdi9XUHEwcmozVnBjM3dBdnM9Wh8iHd00cHU0KzRzRUlBajhXbXNHREJSVW9HTU1qbW89ZQAAAAASpwEIJBKiAQoceW5vOGRjVExDcnVQZ0tKSWhjY3hxOUxwdlAwPRIkZDA0ZWFiNGUtNDk1Ny00OGI5LWI1YzgtMWMwY2Y5OGI1YTRiGAAgACgAMNqT/NiNMjiPia3srTBAj4mt7K0wShxpQzd3QnoxNC9GcXpyT20wWVFZc1hiL2xXU1E9Wh4iHHl3S2s3eHZxdUd6UVNxMkdFMUNWUFFHaklXOD1lXCr5KhKpAQgaEqQBChxPWTF1WmtGaGxKeGR4cGF1UUV5dkZINnBZa2M9EiQzYTlhMzA1OS1kMjhkLTQ2NjItYTQ2Yy02ZWMzMDI3NDEzYjIYACAAKAAw65qt7K0wOJKdreytMECSna3srTBKHG95YVhoQ3lWK1RPMzdCSFRIWTI4V1YyUGp5Zz1aICIe//9uTkdqalNSZjRxWUJFenVibXNXbmVybjAxejg9ZQAAAAASqQEIFRKkAQocSklxVTFPand2bFdOZldNckpxeWlwbVBwMVc4PRIkYjhiOTViM2UtMGQxZi00MzYyLWFhYmItYzM3MzRkNDkxYzJhGAAgACgAMOuareytMDixna3srTBAsZ2t7K0wShxRd3dYUXZPRWZFMDZNZUZ6NzhEREUzSzUramc9WiAiHv/3WFp6RjlTTHFwS3FuZGl1ODZNcit3SDhyMDNrPWUAAAAAEqgBCCsSowEKHFVLV2VnV2Jvek1IdXEyU0hod1ZNYzdrWG9Tbz0SJDVhMGZlMDEyLWI2ZGQtNDY3NC1hNjViLWI3ZjI2MDdmMDQxOBgAIAAoADDrmq3srTA4w5yt7K0wQMOcreytMEocV1Ixeml3NytiakRobEhMdmRNemZmaFZiSjA4PVofIh3+SWl4NEJNOUxlL0lGV1hmMXluRVFBY25oNEdzPWVCAbDjEqcBCAkSogEKHG9uak1sSEhSTTkxN01ST2s1cDZ5bDQ1SlBqWT0SJDgzMjM1OGZjLWZmMmYtNGNkNC05NTYzLTdlYjMxMTMwYmU3ZhgAIAAoADDrmq3srTA47J6t7K0wQOyereytMEocVDB0eFMvWENzbTBhTnNIM0tpcEp4UXJoNCtjPVoeIhx3WFNKT0NzcjNramNndFlMWGZPT0NjdEVjRnM9ZQAAAAASqAEIChKjAQocMmlNWGw5ajJNQ2Q5QjkyWWowcDZPLy9yT0t3PRIkZGJjOTNiODMtM2ZlYy00YTlkLTgxOTktYjhjMGQ4ZjVlZGU4GAAgACgAMOuareytMDj/na3srTBA/52t7K0wShxDT3ZFZW5lejFpdU44N2h1b3RINkdwNExzVWM9Wh8iHbtEVHpmVEE2TUFQV0tuekpuVC8rRDlVZ1NIbGs9ZQAAAAASqAEIERKjAQocY2hWb2Jsak1XNzhOMW5XK3BLV1h2amxrMTRrPRIkNjMzNzVhNzItZTdlMi00ZTVmLTlkY2MtYTA5NzlkNTVlYzQ5GAAgACgAMOuareytMDienq3srTBAnp6t7K0wShxiQnh4cGhIWWhXUmxTTE5keEkzbjUzb21kYzg9Wh8iHf91WlNsSWczdXc3KzVEOEtpUHd0V1hRM0phUDA9ZQAAAAASqgEIHxKlAQocL1RMaW9kUncvYjFUM2ptSVQ4YUs1VzVqNmxBPRIkNWNhMDEwNTMtMjc4Yi00MTZhLTljNDMtMTU4YWE5YWQ3YTkzGAAgACgAMOuareytMDi9nq3srTBAvZ6t7K0wShxpWitvNUxncWkwMTdrWlBvZkk2Mk4vaGFFSXc9WiEiH///+0JvN2lTSlozbUpHYnNJN3JqYXpsa0lNdy9pST1lAAAAABKnAQgHEqIBChxVeGNuZEZnelJCaVArbDFObmx5aUNHVXFpZkU9EiRmNjAxM2UyYS1hMzM3LTRiMTYtYjM3ZS00NWQ1YmQ4NDU4YjEYACAAKAAw65qt7K0wOMqfreytMEDKn63srTBKHGlLVW9XbkxpU1B6bFQ2bTNrNGJjeFJUSjdodz1aHiIcL29MU2Myc0FUUzNxUkoyeW10ZFduUnJjdEtJPWUAAAAAMAA4AA==",
+   "version": 1
+}
