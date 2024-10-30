@@ -1,0 +1,1 @@
+ C:\\Users\\muzaffar\\Documents\\GitHub\\kamui-crypto-price-analyser\\kamui_crypto_price_analyser\\.dart_tool\\flutter_build\\07cb8cc427f2dd01554a884858f0245f\\native_assets.yaml: 
